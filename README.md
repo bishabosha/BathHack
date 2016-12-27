@@ -1,3 +1,7 @@
- # BathHack
+#Don't Panic
 
-make sure that the owner of the "uploaded" folder is the same as the web process
+**Winner of the Community Prize at BathHack 2015**
+
+Report your local incidents with geolocation:
+
+https://devpost.com/software/don-t-panic-13ea28
